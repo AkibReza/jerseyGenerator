@@ -46,7 +46,7 @@ const Design = () => {
 
         {final && (
           <FinalDesign
-            primary={primaryColor}
+            primaryColor={primaryColor}
             secondaryColor={secondaryColor}
             jersey={jersey}
           />
