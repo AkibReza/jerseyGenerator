@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/jerseyGenerator/static/css/main.86814613.css",
-    "main.js": "/jerseyGenerator/static/js/main.6480b97c.js",
+    "main.css": "/jerseyGenerator/static/css/main.8c963133.css",
+    "main.js": "/jerseyGenerator/static/js/main.02235479.js",
     "static/media/diagonalview.svg": "/jerseyGenerator/static/media/diagonalview.5a38b3ffbda3ce9933daf73dd065ebef.svg",
     "static/media/horizonView.svg": "/jerseyGenerator/static/media/horizonView.dcd2338ddf2085b1515bbea9c59f3cc6.svg",
     "static/media/stripeview.svg": "/jerseyGenerator/static/media/stripeview.c3399593938e314a23e08896b71cf33b.svg",
     "static/media/halfView.svg": "/jerseyGenerator/static/media/halfView.dc7d511e7b7233bdd375e009bd20f470.svg",
     "static/media/img1.svg": "/jerseyGenerator/static/media/img1.42cfc122aa8dddfaf8e6b2f77e4e3852.svg",
     "index.html": "/jerseyGenerator/index.html",
-    "main.86814613.css.map": "/jerseyGenerator/static/css/main.86814613.css.map",
-    "main.6480b97c.js.map": "/jerseyGenerator/static/js/main.6480b97c.js.map"
+    "main.8c963133.css.map": "/jerseyGenerator/static/css/main.8c963133.css.map",
+    "main.02235479.js.map": "/jerseyGenerator/static/js/main.02235479.js.map"
   },
   "entrypoints": [
-    "static/css/main.86814613.css",
-    "static/js/main.6480b97c.js"
+    "static/css/main.8c963133.css",
+    "static/js/main.02235479.js"
   ]
 }
