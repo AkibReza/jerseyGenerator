@@ -2,7 +2,7 @@ import React from "react";
 
 const StripeView = ({ primary, secondary }) => {
   return (
-    <div className="relative inset-0">
+    <div className="relative inset-0 w-[100px] mx-auto ">
       <svg
         className="absolute inset-0"
         version="1.0"
