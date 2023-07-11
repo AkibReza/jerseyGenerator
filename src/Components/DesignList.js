@@ -10,7 +10,7 @@ const DesignList = ({ setJerseyDesign }) => {
       <ul className="flex justify-between">
         <li>
           <div>Vertical Stripes</div>
-          <button onClick={() => setJerseyDesign("stripe")}>
+          <button onClick={() => setJerseyDesign("Stripe")}>
             <img
               className="mx-auto "
               width="90px"
@@ -21,7 +21,7 @@ const DesignList = ({ setJerseyDesign }) => {
         </li>
         <li>
           <div>Diagonal Stripe</div>
-          <button onClick={() => setJerseyDesign("diagonal")}>
+          <button onClick={() => setJerseyDesign("Diagonal")}>
             <img
               className="mx-auto"
               width="90px"
@@ -32,7 +32,7 @@ const DesignList = ({ setJerseyDesign }) => {
         </li>
         <li>
           <div>Horizontal Stripe</div>
-          <button onClick={() => setJerseyDesign("horizon")}>
+          <button onClick={() => setJerseyDesign("Horizon")}>
             <img
               className="mx-auto"
               width="90px"
@@ -43,7 +43,7 @@ const DesignList = ({ setJerseyDesign }) => {
         </li>
         <li>
           <div>Half</div>
-          <button onClick={() => setJerseyDesign("half")}>
+          <button onClick={() => setJerseyDesign("Half")}>
             <img className="mx-auto" width="90px" src={halfView} alt=""></img>
           </button>
         </li>
