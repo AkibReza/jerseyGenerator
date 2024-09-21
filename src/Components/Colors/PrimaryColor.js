@@ -53,7 +53,7 @@ const PrimaryColor = ({ primaryColor, setPrimaryColor }) => {
         <li>
           <ColorsBtn
             setter={setPrimaryColor}
-            color={"#CCCCCC"}
+            color={"#EEEEEE"}
             primaryColorState={primaryColor}
           />
         </li>
