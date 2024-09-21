@@ -1,13 +1,13 @@
 import React from "react";
 
-const StripeView = ({ primary, secondary }) => {
+const StripeView = ({ primary, secondary, size }) => {
   return (
-    <div className="relative inset-0 w-[100px] mx-auto ">
+    <div className="relative">
       <svg
-        className="absolute inset-0"
+        className="absolute left-1/2 transform -translate-x-1/2"
         version="1.0"
         xmlns="http://www.w3.org/2000/svg"
-        width="90px"
+        width={`${size}`}
         viewBox="0 0 1600.000000 1600.000000"
         preserveAspectRatio="xMidYMid meet"
       >
@@ -64,10 +64,10 @@ l0 -125 125 0 125 0 0 -125 0 -125 -125 0 -125 0 0 -125 0 -125 -125 0 -125 0
       </svg>
 
       <svg
-        className="mx-auto absolute z-10"
+        className="absolute left-1/2 transform -translate-x-1/2"
         version="1.0"
         xmlns="http://www.w3.org/2000/svg"
-        width="90px"
+        width={`${size}`}
         viewBox="0 0 1600.000000 1600.000000"
         preserveAspectRatio="xMidYMid meet"
       >
